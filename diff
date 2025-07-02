@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WearX Blog</title>
+</head>
+
+
+<body>
+    <h1>Welcome to WearX Blog</h1>
+    <p>Your daily dose of fashion and style.</p>
+    <ul>
+        <li><a href="2025-07-02-top-5-budget-fashion-tips.html">Top 5 Budget Fashion Tips</a></li>
+        <li><a href="2025-07-01-how-to-style-office-outfits.html">How to Style Office Outfits</a></li>
+        <li><a href="2025-06-30-essential-accessories-for-men.html">Essential Accessories for Men</a></li>
+        <li><a href="2025-06-29-street-style-trends-2025.html">Street Style Trends 2025</a></li>
+        <li><a href="2025-06-28-wardrobe-essentials.html">Wardrobe Essentials</a></li>
+        <li><a href="2025-06-27-best-online-stores.html">Best Online Stores</a></li>
+        <li><a href="2025-06-26-sustainable-fashion.html">Sustainable Fashion</a></li>
+    </ul>
+</body>
+</html>
